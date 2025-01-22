@@ -15,3 +15,7 @@
 `GodChefServer`:软件后端，存储用户数据，逻辑功能实现
 
 `GodChefUi`:软件界面，向用户展示的前端
+
+## 技术选型
+前端：uniapp
+后端：go
